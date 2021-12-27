@@ -4,7 +4,10 @@
   "description": "Derived from @npmcli/eslint-config.",
   "main": "index.js",
   "repository": "hyrious/eslint-config",
-  "keywords": ["eslint", "config"],
+  "keywords": [
+    "eslint",
+    "config"
+  ],
   "author": "hyrious <hyrious@outlook.com>",
   "license": "MIT"
 }
